@@ -1,0 +1,95 @@
+# # hungry fish warning (1-2)
+display warning#dialogue#true#1#1#1#none
+disable collision#disablecollision#false#0#0#0#none
+# # Death Counter (4-7)
+one event#console#true#0#0#0#One event completed.
+two event#console#true#0#0#0#Two events completed.
+three event#console#true#0#0#1#Three events completed, initiating death.
+move player into death event#teleportplayer#false#0#30#0#none
+# # lost fish (9-21)
+display dialogue#dialogue#true#3#3#1#none
+the question#question#false#4#2#9#none
+help dialogue (2)#dialogue#true#7#8#1#none
+add moral points#moralpoints#true#3#0#1#none
+uncollidable#disablecollision#true#0#0#1#none
+enable move#startmove#true#0#0#1#none
+add lost fish tag#addtag#true#0#0#1#foundFish
+make link appear#togglelinkvisible#true#0#0#1#none
+advance death counter#triggerlink#false#1#0#0#none
+eat dialogue (9)#dialogue#true#9#9#1#none
+add moral points#moralpoints#true#0#3#1#none
+remove fish#teleport#true#0#-100#1#none
+advance death counter#triggerlink#false#1#0#0#none
+# # doritos (23-26)
+display dialogue#dialogue#true#11#12#1#none
+remove them#teleport#true#0#-100#1#none
+console note#console#true#0#0#1#Player has acquired food!
+add a tag#addtag#false#0#0#0#doritos
+# # weak fish (28-44)
+dialogue initial#dialogue#true#14#17#1#none
+question one#question#false#18#2#12#none
+yes dialogue (2)#dialogue#true#21#22#0#none
+repeat dialogue (3)#dialogue#true#23#23#1#none
+goto if doritos#gotoontag#true#6#0#1#doritos
+go back to doritos check#goto#false#3#0#0#none
+doritos dialogue (6)#dialogue#true#24#24#1#none
+doritos question#question#true#25#8#12#none
+yes dialogue (8)#dialogue#true#28#29#1#none
+remove doritos#removetag#true#0#0#1#doritos
+moral points#moralpoints#true#2#0#1#none
+goto movement#goto#false#14#0#1#none
+no dialogue (12)#dialogue#true#30#32#1#none
+moral points#moralpoints#true#0#2#1#none
+disable collision(14)#disablecollision#true#0#0#1#none
+activate move#startmove#true#0#0#1#none
+advance death counter#triggerlink#false#0#0#0#none
+# # school fish (46-58)
+goto if foundFish#gotoontag#true#5#0#1#foundFish
+initial dialogue#dialogue#true#34#37#1#none
+goto if foundFish (2)#gotoontag#true#5#0#1#foundFish
+repeat dialogue#dialogue#true#38#38#1#none
+repeat prev dialogue#goto#false#2#0#0#none
+fish found (5)#dialogue#true#39#39#1#none
+found repeat (6)#dialogue#true#40#40#1#none
+goto if fight#gotoontag#true#9#0#1#fishFight
+repeat prev dialogue#goto#false#6#0#0#none
+fish fight (9)#dialogue#true#41#42#1#none
+add posse tag#addtag#true#0#0#1#posse
+move#startmove#true#0#0#1#none
+enddialogue#dialogue#false#43#43#0#none
+# # big fish (60-82)
+one#question#false#45#1#11#none
+serve (1)#dialogue#true#48#48#0#none
+add moral points#moralpoints#true#0#1#1#none
+r#dialogue#true#58#58#1#none
+dorito check#gotoontag#true#7#0#1#doritos
+nothing!?#dialogue#true#59#59#1#none
+death event#teleportplayer#false#30#30#0#none
+dorito given (7)#dialogue#true#60#60#1#none
+remove doritos#removetag#true#0#0#1#doritos
+advance death counter#triggerlink#false#0#0#0#none
+repeated dialogue#dialogue#false#61#61#0#none
+resist (11)#dialogue#true#49#50#1#none
+fishFight tag#addtag#true#0#0#0#fishFight
+fight>(13)#question#false#51#15#14#none
+go back (14)#goto#false#13#0#0#none
+friendscheck (15)#gotoontag#true#18#0#1#posse
+too easy#dialogue#true#59#59#1#none
+death event#teleportplayer#false#30#30#0#none
+strength (18)#dialogue#true#55#57#1#none
+disable collision#disablecollision#true#0#0#1#none
+activate move#startmove#true#0#0#1#none
+add moral points#moralpoints#true#5#0#1#none
+advance death counter#triggerlink#false#0#0#0#none
+# # hungry fish (84)
+death event#teleportplayer#false#30#30#0#none
+# # eaten (86-87)
+a#dialogue#true#63#63#1#none
+load purgatory#loadscene#false#1#0#0#Purgatory
+# # disease (89-90)
+a#dialogue#true#65#66#1#none
+load purgatory#loadscene#false#1#0#0#Purgatory
+# # load-in intro (92-94)
+play portal sound#playaudio#true#0#0#1#none
+intro#dialogue#true#68#72#1#none
+put player in field#teleportplayer#false#17#-39#0#none

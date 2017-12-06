@@ -1,0 +1,83 @@
+# # runner's bump dialogue (1)
+Villager: "Oh, Excuse me!"
+# # Traveler's Dialogue ( 3-4 =init, 5 =question, 8-10 =affirmation, 11-12 =crosschat)
+Traveler One: "-the tent's full of leaks now, and it looks like it'll rain tonight..."
+Traveler Two: "But there's no inn in this village, and the temple is already full-"
+"Oh... can we help you sir?"
+Invite them to stay.
+Move along.
+Farmer: "You can stay at my farmhouse tonight, no charge."
+Traveler One: "Oh! That's most generous of you sir!  Thank you."
+Traveler Two: "May the gods bless you."
+Traveler One: "Those guys look suspicious..."
+Traveler Two: "Hopefully they won't bother us... unless they want a ratty tent."
+# # Thieves' Dialogue ( 14-16 =init, 17 =question, 20-22 =affirmation, 23-24 =crosschat)
+Thief One: "Heh!  That was a nice haul from those travelers."
+Thief Two: "You see thier faces when I pulled my knife?  Gahaha"
+Thief One: "Hah!  Yeah.  Anyway, let's go find some palce to eat an-"
+Thief Two: "Hey farmer, what you looking at?"
+Nothing...
+Rent them a room.
+Farmer: "Need a place to stay, and food to eat?  You can stay at my farmhouse, thirty coins a night."
+Thief One: "Thirty coins?  Ah hell, we can afford it right?"
+Thief Two: "Heh, Yeah, hahahaha."
+Thief Two: "Hey, you think those guys are planning something?"
+Thief One: "Who cares, let's go eat."
+# # Priest ( 26-27 =init, 28 = repeat)
+The Priest smiles at you warmly: "Hello Farmer!  May the Death God bless you and guide your spirit."
+Farmer: "Thank you."
+The Priest smiles and nods, while humming to himself.
+# # An Ordinary Cat (30 = repeat)
+The cat states at you intently.
+# # Poison (32-34 =init)
+You find your supply of poison next to the barrels of your recently harvested grain.  
+ . . . and the bottle has a small leak.  You should probably check the barrels for contamination.
+ Your carefully wrap the bottle and carry it with you.  
+# # Barrels ( 36-37 =init, 38 =repeat)
+These are the barrels full of your recently harvested grain.  You notice some cracks near the ground.
+Upon looking closer you discover some of your pest poision has gotten on the grain.
+This grain is contaminated, if anyone eats it they can become very ill.
+# # Merchant (40-41 =init, 42 =question, 45 =yes, 46 =no, 47 =repeat)
+The merchant waves to you.  Merchant: "Hello Farmer!  I see you've harvested some of your grain."
+"The mill's running a bit short right now, so I can offer you a little more than usual today."
+Sell your first harvest?
+Sure!
+It's not ready.
+Merchant: "Fantastic!  I'll send someone to go fetch them shortly."
+Merchant: "Not a problem, people will always need grain!  Just let me know when it's all ready."
+Merchant: "Always a pleasure."
+# # Scarecrow ( 49-50 =init, 51 =repeat)
+This is the scarecrow that guarded your grain until you harvested it this morning.
+Farmer: "No need to guard an empty field."  You pick up the scarecrow and carry it with you.
+Farmer: "Excellent!  This should keep those birds away!"
+# # Eaten Fruit (53-55 =init, 56 =question, 59 =poison, 60 =pRepeat, 61 =sc, 62 =scRepeat, 63 =scPlant, 64 =putP, 65 =last repeat)
+A small flock of birds is currently eating the fruit off your fruit trees at an alarming pace and with great enthusiasm.
+You will need some kind of deterent to keep the birds from eating all your fruit before you can sell it.
+Farmer: "No! Go away! Go away! Shoo! Shoo!"
+You have a couple of tools available, which do you use?
+Poison.
+Scarecrow.
+You still have some pest poison left over.  Applying it to this half-eaten fruit should get the birds when they come back.
+You think you last left the poison on the south side of the farmhouse.
+Your scarecrow did a good job of guarding your grain field.  Now the grain's been harvested, you can move it here.
+The scarecrow should still be in the harvested field, up by the market.
+You plant the scarecrow firmly in the ground.
+You carefully apply some poison to the half-eaten fruit on the ground.  Farmer: "There!  Those birds won't be a problem for long"
+Farmer: ". . . hopefully they don't die on my field."
+# # load-in text (67-70)
+Decades of memory flash through your mind in an instant.  Memories of earth, and crops, and small profits.
+You are a Farmer.  You have just harvested one of your fields, and hope to sell the grain.  
+You're running short on money again . . . again?  Has this happened before?
+The thought fades as you focus on the task at hand.  Sell the grain, then you can return to the farmhouse to sleep.
+# # farm door question (72)
+Go back inside the farmhouse and retire for the day?
+Stay outside.
+Time to rest.
+# # end cutscene (76-78 =init1, 79-80 =init2, 81-82 =transfer)
+Farmer: "!"
+Thief 1: "Hey, nice place you've got."
+Thief 2: "Even better, I've heard it comes at a discount.  Hehe."
+Thief 1: "Hehehe."
+The thief expertly skewers you with his dagger.  Thief 2: "A big discount!"
+The thief's strike was fatal, you rapily lose conciousness as you bleed to death.
+Before you completely black out, you feel... lighter, as if a piece of you was beginning to float.

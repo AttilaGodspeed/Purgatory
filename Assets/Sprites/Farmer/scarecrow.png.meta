@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 9fdbeea00724c204781c50104fe415a6
+timeCreated: 1481069463
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: scarecrow_0
+    21300002: scarecrow_1
+    21300004: scarecrow_2
+    21300006: scarecrow_3
+    21300008: scarecrow_4
+    21300010: scarecrow_5
+    21300012: scarecrow_6
+    21300014: scarecrow_7
+    21300016: scarecrow_8
+    21300018: scarecrow_9
+    21300020: scarecrow_10
+    21300022: scarecrow_11
+    21300024: scarecrow_12
+    21300026: scarecrow_13
+    21300028: scarecrow_14
+    21300030: scarecrow_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scarecrow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 32.25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scarecrow_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 32.25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scarecrow_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 32.25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scarecrow_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 32.25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scarecrow_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32.25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scarecrow_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32.25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scarecrow_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32.25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scarecrow_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32.25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scarecrow_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 32.25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scarecrow_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 32.25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scarecrow_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 32.25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scarecrow_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 32.25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scarecrow_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32.25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scarecrow_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32.25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scarecrow_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32.25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scarecrow_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32.25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

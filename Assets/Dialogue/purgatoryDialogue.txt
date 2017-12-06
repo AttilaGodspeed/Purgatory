@@ -1,0 +1,36 @@
+# Initial Load-in Dialogue (1-5)
+You find youself standing in an old graveyard in a bleak landscape...
+Or you would be standing, except you don't seem to have legs... or a body.
+Did you have legs?  What did they look like?  You can't seem to remember...
+You're also not sure where you are... or how you got there.
+The only sould in sight is a white cat, who looks at you intently...
+# white cat's intitial dialogue (7-11)
+As you approach the cat, a voice echoes in your mind: "Ah, first time I see..."
+"This is Purgatory, a young soul like you isn't ready to retire yet, so go live a bit more"
+"...like you souls do."
+You try to speak, but quickly discover you have no voice...
+Did you have a voice?  What did it sound like?
+# white cat question (13)
+The cat looks at you curiously, what do you do?
+Look painfully confused.
+Nod knowingly.
+# white cat answer one (17-19)
+"Eh?  Very well.  I'll give you a hint."
+"Follow this path up towards the cliffs, and keep left, you'll find a chance to live."
+"As for Judgement?  Go south."
+# white cat answer 2 (21)
+"Excellent.  Oh, and please do be interesting... we'll be watching."
+# fish portal initial (23)
+The portal swirls and hums.  It occationally eminates a soft yet distinct scent of the sea.
+# all portal question (25)
+The portal pulls on you weakly.  You...
+enter the portal.
+leave it alone.
+# Gatekeeper cat (question = 29, no = 32, yes = 33)
+The cat's voice booms in your mind: "Are you ready to face Judgement, mortal?"
+Back away slowly.
+Nod.
+"Then why are you here?"
+"Step forward mortal, so the Death God may weigh your deeds."
+# # Farmer Portal (35)
+The portal swirls and hums.  You occasionally hear the sound of birds chirping.

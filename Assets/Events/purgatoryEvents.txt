@@ -1,0 +1,33 @@
+# scene load behaviours (1-3)
+disable trigger collision#disablecollision#true#0#0#1#none
+don't load again#addtag#true#0#0#1#initial
+display intro dialogue#dialogue#false#1#5#0#none
+# white cat behaviours (5-13)
+don't load again#addtag#true#0#0#1#whiteCat
+play cat talk sound#playaudio#true#0#0#1#none
+dislay cat's initial dialogue#dialogue#true#7#11#1#none
+cat's question#question#true#13#4#6#none
+display cat's answer 1 (line 4)#dialogue#true#17#19#1#none
+skip to collision#goto#true#7#0#1#none
+display cat's answer 2 (line 6)#dialogue#true#21#21#1#none
+disable cat's collision (line 7)#disablecollision#true#0#0#1#none
+activate cat's movement#startmove#false#0#0#0#none
+# fish portal behaviours (15-19)
+display dialogue#dialogue#true#23#23#1#none
+display portal question#question#true#25#3#2#none
+do nothing, back to start#goto#false#0#0#0#none
+don't load again#addtag#true#0#0#1#fishPortal
+open portal, load fish#loadscene#false#3#0#0#Fish
+# gatekeeper cat (21-26)
+play cat talk sound#playaudio#true#0#0#1#none
+Q#question#false#29#2#4#none
+neg answer#dialogue#true#32#32#1#none
+go back to question#goto#false#0#0#0#none
+pos answer#dialogue#true#33#33#1#none
+goto judgement#loadscene#false#2#0#0#Judgement
+# # Farmer Portal (28-32)
+display dialogue#dialogue#true#35#35#1#none
+display portal question#question#true#25#3#2#none
+do nothing, back to start#goto#false#0#0#0#none
+don't load again#addtag#true#0#0#1#farmPortal
+open portal, load farm#loadscene#false#4#0#0#Farm

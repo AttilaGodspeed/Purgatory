@@ -1,0 +1,136 @@
+# # runner (1-4)
+stop moving#stopmove#true#0#0#1#none
+display "excuse me!"#dialogue#true#1#1#1#none
+resume movement#startmove#true#0#0#1#none
+repeat previous#goto#false#0#0#0#none
+# # traveler 1 (6-15) [parent = link0, traveler2 = link1]
+play voice sound#playaudio#true#0#0#1#none
+hand-off to parent#triggerlink#true#0#0#0#none
+loop#goto#false#0#0#1#none
+cross-talk (3)#dialogue#true#11#12#1#none
+disable collision#disablecollision#true#0#0#1#none
+activate movement#startmove#true#0#0#1#none
+trigger traveler2 (from thief)#triggerlinkat#false#1#6#0#none
+disable collision (7)#disablecollision#true#0#0#1#none
+activate movement#startmove#true#0#0#1#none
+trigger traveler2 (to thief)#triggerlinkat#false#1#3#0#none
+# # traveler 2 (17-24) [parent = link0, thief1 = link1]
+play voice sound#playaudio#true#0#0#1#none
+hand-off to parent#triggerlink#true#0#0#0#none
+loop#goto#false#0#0#1#none
+disable collision (3)#disablecollision#true#0#0#1#none
+activate movement#startmove#true#0#0#1#none
+trigger thief1 to cross#triggerlinkat#false#1#3#0#none
+disable collision (6)#disablecollision#true#0#0#1#none
+activate movement#startmove#false#0#0#0#none
+# # thief 1 (26-35) [parent = link0, thief2 = link1]
+play voice sound#playaudio#true#0#0#1#none
+hand-off to parent#triggerlink#true#0#0#0#none
+loop#goto#false#0#0#1#none
+cross-talk (3)#dialogue#true#23#24#1#none
+disable collision#disablecollision#true#0#0#1#none
+activate movement#startmove#true#0#0#1#none
+trigger thief2 (from traveler)#triggerlinkat#false#1#6#0#none
+disable collision (7)#disablecollision#true#0#0#1#none
+activate movement#startmove#true#0#0#1#none
+trigger thief2 (to traveler)#triggerlinkat#false#1#3#0#none
+# # thief 2 (37-44) [parent = link0, traveler1 = link1]
+play voice sound#playaudio#true#0#0#1#none
+hand-off to parent#triggerlink#true#0#0#0#none
+loop#goto#false#0#0#1#none
+disable collision (3)#disablecollision#true#0#0#1#none
+activate movement#startmove#true#0#0#1#none
+trigger traveler1 to cross#triggerlinkat#false#1#3#0#none
+disable collision (6)#disablecollision#true#0#0#1#none
+activate movement#startmove#false#0#0#0#none
+# # Travelers (46-51) [traveler1 = link0]
+initial convo#dialogue#true#3#4#1#none
+help travelers? (1)#question#false#5#3#2#none
+no: loop back (2)#goto#false#1#0#0#none
+yes: +2 points (3)#moralpoints#true#2#0#1#none
+yes convo#dialogue#true#8#10#1#none
+trigger traveler1#triggerlinkat#false#0#7#0#none
+# # Thieves (53-58) [thief1 = link0]
+initial convo#dialogue#true#14#16#1#none
+help thieves? (1)#question#false#17#2#3#none
+no: loop back (2)#goto#false#1#0#0#none
+yes: -2 points (3)#moralpoints#true#0#2#1#none
+yes convo#dialogue#true#20#22#1#none
+trigger thief1#triggerlinkat#false#0#7#0#none
+# # Priest (60-65)
+play voice sound#playaudio#true#0#0#1#none
+blessing#dialogue#true#26#27#1#none
+bous point#moralpoints#true#1#0#0#none
+play voice sound (2)#playsound#true#0#0#1#none
+repeat convo#dialogue#true#28#28#1#none
+loop back#goto#false#2#0#0#none
+# # totally normal cat (67)
+=0w0=#dialogue#false#30#30#0#none
+# # scarecrow (69-73)
+Intro#dialogue#true#49#50#1#none
+tag "scarecrow"#addtag#true#0#0#1#scarecrow
+move off area#teleport#false#125#65#0#none
+move on area (3)#teleport#true#3#-41#0#none
+repeat text#dialogue#false#51#51#0#none
+# # poison (75-77)
+Intro#dialogue#true#32#34#1#none
+tag "poison"#addtag#true#0#0#1#poison
+move off area#teleport#false#125#65#0#none
+# # barrels (79-81)
+Intro#dialogue#true#36#37#1#none
+tag "contaminated"#addtag#true#0#0#1#contaminated
+repeat text#dialogue#false#38#38#0#none
+# # merchant (83-93)
+play voice sound#playaudio#true#0#0#1#none
+intro text#dialogue#true#40#41#1#none
+sell?#question#false#42#3#8#none
+yes: check "contaminated" (3)#gotonotontag#true#5#0#1#contaminated
+extra bad -2#moralpoints#true#0#2#1#none
+base -1 (5)#moralpoints#true#0#1#1#none
+yes text#dialogue#true#45#45#1#none
+jump#goto#false#9#0#0#none
+no text(8)#dialogue#true#46#46#0#none
+play voice sound (9)#playaudio#true#0#0#1#none
+repeat text#dialogue#false#47#47#0#none
+# # bird group (95-97) [link0 = eatenFruit]
+play flapping sound#playaudio#true#0#0#1#none
+activate movement#startmove#true#0#0#1#none
+back to the fruit#triggerlink#false#0#0#0#none
+# #  eaten fruit (99-116) [link0 = birds, link1 = scarecrow]
+intro text#dialogue#true#53#55#1#none
+jump to birds#triggerlink#true#0#0#0#none
+birds?#question#false#56#11#3#none
+sc text(3)#dialogue#true#61#61#1#none
+scarecrow check (4)#gotoontag#true#7#0#1#scarecrow
+sc location text#dialogue#true#62#62#1#none
+loop back#goto#false#4#0#0#none
+plant SC text (7)#dialogue#true#63#63#1#none
+move fruit off#teleport#true#125#65#1#none
++1 points#moralpoints#true#1#0#1#none
+trigger scarecrow#triggerlinkat#false#1#3#0#none
+p text (11)#dialogue#true#59#59#1#none
+poison check (12)#gotoontag#true#15#0#1#poison
+p location text#dialogue#true#60#60#1#none
+loop back#goto#false#12#0#0#none
+apply poison(15)#dialogue#true#64#64#0#none
+-2 points#moralpoints#true#0#2#1#none
+repeat text#dialogue#false#65#65#0#none
+# # Scene Load-In (118-120)
+play portal sound#playaudio#true#0#0#1#none
+intro#dialogue#true#67#70#1#none
+put player in field#teleportplayer#false#-47#-63#0#none
+# # farm door (122-124)
+go inside?#question#false#72#1#2#none
+loop back#goto#false#0#0#0#none
+move player inside#teleportplayer#false#-162#-16#0#none
+# # end cutscene (126-128) [link0 =stabbyThief]
+disable collision#disablecollision#true#0#0#1#none
+part1#dialogue#true#76#78#1#none
+hand-off#triggerlink#false#0#0#0#none
+# # stabby thief (130-135)
+activate movement#startmove#true#0#0#1#none
+part2#dialogue#true#79#80#1#none
+stab sound#playaudio#true#0#0#1#none
+move player to blackness#teleportplayer#true#-200#-10#1#none
+last text#dialogue#true#81#82#1#none
+back to purgatory#loadscene#false#1#0#0#Purgatory

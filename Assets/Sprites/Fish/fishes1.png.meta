@@ -1,0 +1,1403 @@
+fileFormatVersion: 2
+guid: 7b4149e57a86a904cb4dde12a9b1a47f
+timeCreated: 1480474189
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fishes1_0
+    21300002: fishes1_1
+    21300004: fishes1_2
+    21300006: fishes1_3
+    21300008: fishes1_4
+    21300010: fishes1_5
+    21300012: fishes1_6
+    21300014: fishes1_7
+    21300016: fishes1_8
+    21300018: fishes1_9
+    21300020: fishes1_10
+    21300022: fishes1_11
+    21300024: fishes1_12
+    21300026: fishes1_13
+    21300028: fishes1_14
+    21300030: fishes1_15
+    21300032: fishes1_16
+    21300034: fishes1_17
+    21300036: fishes1_18
+    21300038: fishes1_19
+    21300040: fishes1_20
+    21300042: fishes1_21
+    21300044: fishes1_22
+    21300046: fishes1_23
+    21300048: fishes1_24
+    21300050: fishes1_25
+    21300052: fishes1_26
+    21300054: fishes1_27
+    21300056: fishes1_28
+    21300058: fishes1_29
+    21300060: fishes1_30
+    21300062: fishes1_31
+    21300064: fishes1_32
+    21300066: fishes1_33
+    21300068: fishes1_34
+    21300070: fishes1_35
+    21300072: fishes1_36
+    21300074: fishes1_37
+    21300076: fishes1_38
+    21300078: fishes1_39
+    21300080: fishes1_40
+    21300082: fishes1_41
+    21300084: fishes1_42
+    21300086: fishes1_43
+    21300088: fishes1_44
+    21300090: fishes1_45
+    21300092: fishes1_46
+    21300094: fishes1_47
+    21300096: fishes1_48
+    21300098: fishes1_49
+    21300100: fishes1_50
+    21300102: fishes1_51
+    21300104: fishes1_52
+    21300106: fishes1_53
+    21300108: fishes1_54
+    21300110: fishes1_55
+    21300112: fishes1_56
+    21300114: fishes1_57
+    21300116: fishes1_58
+    21300118: fishes1_59
+    21300120: fishes1_60
+    21300122: fishes1_61
+    21300124: fishes1_62
+    21300126: fishes1_63
+    21300128: fishes1_64
+    21300130: fishes1_65
+    21300132: fishes1_66
+    21300134: fishes1_67
+    21300136: fishes1_68
+    21300138: fishes1_69
+    21300140: fishes1_70
+    21300142: fishes1_71
+    21300144: fishes1_72
+    21300146: fishes1_73
+    21300148: fishes1_74
+    21300150: fishes1_75
+    21300152: fishes1_76
+    21300154: fishes1_77
+    21300156: fishes1_78
+    21300158: fishes1_79
+    21300160: fishes1_80
+    21300162: fishes1_81
+    21300164: fishes1_82
+    21300166: fishes1_83
+    21300168: fishes1_84
+    21300170: fishes1_85
+    21300172: fishes1_86
+    21300174: fishes1_87
+    21300176: fishes1_88
+    21300178: fishes1_89
+    21300180: fishes1_90
+    21300182: fishes1_91
+    21300184: fishes1_92
+    21300186: fishes1_93
+    21300188: fishes1_94
+    21300190: fishes1_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fishes1_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 338
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 339
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 340
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 338
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 339
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 340
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 338
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 339
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 340
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 338
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_10
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 339
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_11
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 340
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 293
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 294
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 293
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 293
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 294
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 293
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_18
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 293
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_19
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 294
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_20
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 293
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_21
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 293
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_22
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 294
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 293
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 245
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 246
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 245
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_27
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 245
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 246
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_29
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 245
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 245
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_31
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 246
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 245
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_33
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 245
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_34
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 246
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_35
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 245
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 201
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 199
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 199
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_39
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 201
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 199
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_41
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 199
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_42
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 201
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_43
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 199
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 199
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_45
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 201
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_46
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 199
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_47
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 199
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 146
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_49
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 147
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_50
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 147
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_51
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 147
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_52
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 148
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_53
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 148
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_54
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 146
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_55
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 147
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_56
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 148
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_57
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 146
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_58
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 147
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_59
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 148
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 101
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 102
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 101
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 102
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 103
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_65
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 102
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_66
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 101
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_67
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 102
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_68
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 101
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_69
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 101
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_70
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 102
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_71
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 101
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 53
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_73
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 54
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_74
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 53
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_75
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 54
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_76
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 55
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_77
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 54
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_78
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 53
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_79
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 54
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_80
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 53
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_81
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 53
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_82
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 54
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_83
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 53
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_84
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_85
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 7
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_86
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 7
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_87
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 10
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_88
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 8
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_89
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 8
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_90
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 9
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_91
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 7
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_92
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 7
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_93
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 9
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_94
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 7
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fishes1_95
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 7
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

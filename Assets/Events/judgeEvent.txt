@@ -1,0 +1,8 @@
+# # JUDGEMENT (1-7)
+remove collision#disablecollision#true#0#0#1#none
+intro#dialogue#true#1#2#1#none
+judge branch#judge#false#3#5#0#none
+good (3)#dialogue#true#3#3#1#none
+load menu#loadscene#false#0#0#0#Menu
+bad (5)#dialogue#true#4#5#1#none
+load menu#loadscene#false#0#0#0#Menu

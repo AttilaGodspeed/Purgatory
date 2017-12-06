@@ -1,0 +1,73 @@
+# # hungry fish warning (1)
+This fish looks especially hungry.  You think you shouldn't get too close, otherwise you could be eaten.
+# # lost fish (init=3, question=4, help=7-8, eat=9)
+Small Fish: "Um... hello... I'm uh... can you help me?  I've been separated from my school, and I'm too scared to leave this seaweed."
+Do you know where my school is?
+Help the fish.
+Eat the fish.
+Old Fish: "I saw them nearby, they're just past those ruins."
+Small fish: "Oh!  Thank you!  Um... I'll be going now, bye!"
+With a quick snap you eat the lone fish whole.  Such is the way of fishes.
+# # doritos (11-12)
+What is this?  It seems edible enough...
+You've acquired some food.
+# # weak fish (14-17=init, 18=Q1, 21-22=yesInit, 23=yesRepeat, 24=doritos, 25=Q2, 28-29=yes, 30-32=no)
+Weak Fish 1: "So hungry..."
+Weak Fish 2: "We should go look for food..."
+Weak Fish 3: "But isn't it dangerous?"
+Weak Fish 4: "Excuse me, maybe you can help?"
+Help these fish find some food?
+Yes.
+No.
+Fish 3: "Ok, we'll um... we'll be right here."
+Fish 1: "Let us know if you find anything!"
+Weak Fish: "Find anything yet?"
+Weak Fish: "Oooh, what's that... it looks tasty...can we have it?"
+Give your food to these fish?
+Give it.
+Keep it.
+Weak Fish 1: "Ooo, thanks!"
+Weak Fish 3: "Hey!  Don't eat it all!"
+Weak Fish 1: "Nooo... so hungry..."
+Weak Fish 2: "Let's try over there, maybe it's not too dangerous..."
+Weak Fish 3: "Better than starving I guess..."
+# # school of fish (init=34-37, repeat=38, fishFound=39, foundRepeat=40, fight=41-42, endRepeat=43)
+Blue Fish 1: "We seem to be missing one of our number . . ."
+Blue Fish 2: ". . . maybe they got eaten?"
+Blue Fish 3: "Maybe this one can help?"
+Blue Fish 1: "Ah! *ahem* *blurb*"
+Blue Fish 1: "You haven't seen a lone blue fish by chance have you?  No?  Blast."
+Lost Fish: "Look there they are!"
+Blue Fish: "Hey, thanks for helping them.  If you need help with something, let us know!"
+Old Fish: "I'm going to chase that big fish out of here, but will need strength in numbers to do it."
+Blue Fish: "Yeah?  It's about time we stood up to that bully, lets go!"
+Blue Fish: "It'll be a little safer here now."
+# # big fish (Q1=45, serve=48, resist=49-50, Q2=51, solo=54, party=55-57, foodCheck=58, nada=59, dorito=60, end dorito=61)
+Big Fish: "Hey, small fry, I'm hungry, bring me some food or else."
+Serve.
+Resist.
+Old Fish: "I'll find something!  Please don't eat me!"
+Old Fish: "We've had enough of you, keep pushing us and we'll push back."
+Big Fish: "Yeah?  You and what navy?"
+Big Fish: "You gonna fight, or just stare at me?"
+Fight.
+Stare.
+Big Fish: "All by your old self?  Too easy."
+Old Fish: "I'll fight, along with my large group of friends here..."
+Blue Fish: "Yeah!"
+Big Fish: "rrrrr, you win this round!"
+Big Fish: "What did you bring me?"
+Big Fish: "Nothing!?  I guess old fish will have to do..."
+Big Fish: "What's this??  Hm... not bad."
+Big Fish: "You get to live, for now."
+# # you've BEEN EATEN! (63)
+You have been eaten.  You feel your life quickly leaving your body, and your soul returning to a now familiar place...
+# # died the OG way (65-66)
+Your body had finally reached its limits.  One last hurrah in the life of a fish.
+As you fade into darkness and feel your soul begin to slip free, you hope you've made a good impression.
+# # FISH INTRO! (68-72)
+Awareness and memory sure into you all at once, slowly solidifying into something... different.  Very different.
+You are a fish, and an old fish at that.  You body feels worn to the point of exaustion.  
+You're not just how much longer it will last.
+You're also thinking.  As a fish.  Do fish think?  Did you eat thinking fish before?
+Your thoughts give way to your surroundings as you acclimate to your new senses.

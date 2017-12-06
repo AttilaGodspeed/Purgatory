@@ -1,0 +1,4441 @@
+fileFormatVersion: 2
+guid: 5a4766860b8e5e7449092fd78b049bbd
+timeCreated: 1479232961
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2DEnvironment03_0
+    21300002: 2DEnvironment03_1
+    21300004: 2DEnvironment03_2
+    21300006: 2DEnvironment03_3
+    21300008: 2DEnvironment03_4
+    21300010: 2DEnvironment03_5
+    21300012: 2DEnvironment03_6
+    21300014: 2DEnvironment03_7
+    21300016: 2DEnvironment03_8
+    21300018: 2DEnvironment03_9
+    21300020: 2DEnvironment03_10
+    21300022: 2DEnvironment03_11
+    21300024: 2DEnvironment03_12
+    21300026: 2DEnvironment03_13
+    21300028: 2DEnvironment03_14
+    21300030: 2DEnvironment03_15
+    21300032: 2DEnvironment03_16
+    21300034: 2DEnvironment03_17
+    21300036: 2DEnvironment03_18
+    21300038: 2DEnvironment03_19
+    21300040: 2DEnvironment03_20
+    21300042: 2DEnvironment03_21
+    21300044: 2DEnvironment03_22
+    21300046: 2DEnvironment03_23
+    21300048: 2DEnvironment03_24
+    21300050: 2DEnvironment03_25
+    21300052: 2DEnvironment03_26
+    21300054: 2DEnvironment03_27
+    21300056: 2DEnvironment03_28
+    21300058: 2DEnvironment03_29
+    21300060: 2DEnvironment03_30
+    21300062: 2DEnvironment03_31
+    21300064: 2DEnvironment03_32
+    21300066: 2DEnvironment03_33
+    21300068: 2DEnvironment03_34
+    21300070: 2DEnvironment03_35
+    21300072: 2DEnvironment03_36
+    21300074: 2DEnvironment03_37
+    21300076: 2DEnvironment03_38
+    21300078: 2DEnvironment03_39
+    21300080: 2DEnvironment03_40
+    21300082: 2DEnvironment03_41
+    21300084: 2DEnvironment03_42
+    21300086: 2DEnvironment03_43
+    21300088: 2DEnvironment03_44
+    21300090: 2DEnvironment03_45
+    21300092: 2DEnvironment03_46
+    21300094: 2DEnvironment03_47
+    21300096: 2DEnvironment03_48
+    21300098: 2DEnvironment03_49
+    21300100: 2DEnvironment03_50
+    21300102: 2DEnvironment03_51
+    21300104: 2DEnvironment03_52
+    21300106: 2DEnvironment03_53
+    21300108: 2DEnvironment03_54
+    21300110: 2DEnvironment03_55
+    21300112: 2DEnvironment03_56
+    21300114: 2DEnvironment03_57
+    21300116: 2DEnvironment03_58
+    21300118: 2DEnvironment03_59
+    21300120: 2DEnvironment03_60
+    21300122: 2DEnvironment03_61
+    21300124: 2DEnvironment03_62
+    21300126: 2DEnvironment03_63
+    21300128: 2DEnvironment03_64
+    21300130: 2DEnvironment03_65
+    21300132: 2DEnvironment03_66
+    21300134: 2DEnvironment03_67
+    21300136: 2DEnvironment03_68
+    21300138: 2DEnvironment03_69
+    21300140: 2DEnvironment03_70
+    21300142: 2DEnvironment03_71
+    21300144: 2DEnvironment03_72
+    21300146: 2DEnvironment03_73
+    21300148: 2DEnvironment03_74
+    21300150: 2DEnvironment03_75
+    21300152: 2DEnvironment03_76
+    21300154: 2DEnvironment03_77
+    21300156: 2DEnvironment03_78
+    21300158: 2DEnvironment03_79
+    21300160: 2DEnvironment03_80
+    21300162: 2DEnvironment03_81
+    21300164: 2DEnvironment03_82
+    21300166: 2DEnvironment03_83
+    21300168: 2DEnvironment03_84
+    21300170: 2DEnvironment03_85
+    21300172: 2DEnvironment03_86
+    21300174: 2DEnvironment03_87
+    21300176: 2DEnvironment03_88
+    21300178: 2DEnvironment03_89
+    21300180: 2DEnvironment03_90
+    21300182: 2DEnvironment03_91
+    21300184: 2DEnvironment03_92
+    21300186: 2DEnvironment03_93
+    21300188: 2DEnvironment03_94
+    21300190: 2DEnvironment03_95
+    21300192: 2DEnvironment03_96
+    21300194: 2DEnvironment03_97
+    21300196: 2DEnvironment03_98
+    21300198: 2DEnvironment03_99
+    21300200: 2DEnvironment03_100
+    21300202: 2DEnvironment03_101
+    21300204: 2DEnvironment03_102
+    21300206: 2DEnvironment03_103
+    21300208: 2DEnvironment03_104
+    21300210: 2DEnvironment03_105
+    21300212: 2DEnvironment03_106
+    21300214: 2DEnvironment03_107
+    21300216: 2DEnvironment03_108
+    21300218: 2DEnvironment03_109
+    21300220: 2DEnvironment03_110
+    21300222: 2DEnvironment03_111
+    21300224: 2DEnvironment03_112
+    21300226: 2DEnvironment03_113
+    21300228: 2DEnvironment03_114
+    21300230: 2DEnvironment03_115
+    21300232: 2DEnvironment03_116
+    21300234: 2DEnvironment03_117
+    21300236: 2DEnvironment03_118
+    21300238: 2DEnvironment03_119
+    21300240: 2DEnvironment03_120
+    21300242: 2DEnvironment03_121
+    21300244: 2DEnvironment03_122
+    21300246: 2DEnvironment03_123
+    21300248: 2DEnvironment03_124
+    21300250: 2DEnvironment03_125
+    21300252: 2DEnvironment03_126
+    21300254: 2DEnvironment03_127
+    21300256: 2DEnvironment03_128
+    21300258: 2DEnvironment03_129
+    21300260: 2DEnvironment03_130
+    21300262: 2DEnvironment03_131
+    21300264: 2DEnvironment03_132
+    21300266: 2DEnvironment03_133
+    21300268: 2DEnvironment03_134
+    21300270: 2DEnvironment03_135
+    21300272: 2DEnvironment03_136
+    21300274: 2DEnvironment03_137
+    21300276: 2DEnvironment03_138
+    21300278: 2DEnvironment03_139
+    21300280: 2DEnvironment03_140
+    21300282: 2DEnvironment03_141
+    21300284: 2DEnvironment03_142
+    21300286: 2DEnvironment03_143
+    21300288: 2DEnvironment03_144
+    21300290: 2DEnvironment03_145
+    21300292: 2DEnvironment03_146
+    21300294: 2DEnvironment03_147
+    21300296: 2DEnvironment03_148
+    21300298: 2DEnvironment03_149
+    21300300: 2DEnvironment03_150
+    21300302: 2DEnvironment03_151
+    21300304: 2DEnvironment03_152
+    21300306: 2DEnvironment03_153
+    21300308: 2DEnvironment03_154
+    21300310: 2DEnvironment03_155
+    21300312: 2DEnvironment03_156
+    21300314: 2DEnvironment03_157
+    21300316: 2DEnvironment03_158
+    21300318: 2DEnvironment03_159
+    21300320: 2DEnvironment03_160
+    21300322: 2DEnvironment03_161
+    21300324: 2DEnvironment03_162
+    21300326: 2DEnvironment03_163
+    21300328: 2DEnvironment03_164
+    21300330: 2DEnvironment03_165
+    21300332: 2DEnvironment03_166
+    21300334: 2DEnvironment03_167
+    21300336: 2DEnvironment03_168
+    21300338: 2DEnvironment03_169
+    21300340: 2DEnvironment03_170
+    21300342: 2DEnvironment03_171
+    21300344: 2DEnvironment03_172
+    21300346: 2DEnvironment03_173
+    21300348: 2DEnvironment03_174
+    21300350: 2DEnvironment03_175
+    21300352: 2DEnvironment03_176
+    21300354: 2DEnvironment03_177
+    21300356: 2DEnvironment03_178
+    21300358: 2DEnvironment03_179
+    21300360: 2DEnvironment03_180
+    21300362: 2DEnvironment03_181
+    21300364: 2DEnvironment03_182
+    21300366: 2DEnvironment03_183
+    21300368: 2DEnvironment03_184
+    21300370: 2DEnvironment03_185
+    21300372: 2DEnvironment03_186
+    21300374: 2DEnvironment03_187
+    21300376: 2DEnvironment03_188
+    21300378: 2DEnvironment03_189
+    21300380: 2DEnvironment03_190
+    21300382: 2DEnvironment03_191
+    21300384: 2DEnvironment03_192
+    21300386: 2DEnvironment03_193
+    21300388: 2DEnvironment03_194
+    21300390: 2DEnvironment03_195
+    21300392: 2DEnvironment03_196
+    21300394: 2DEnvironment03_197
+    21300396: 2DEnvironment03_198
+    21300398: 2DEnvironment03_199
+    21300400: 2DEnvironment03_200
+    21300402: 2DEnvironment03_201
+    21300404: 2DEnvironment03_202
+    21300406: 2DEnvironment03_203
+    21300408: 2DEnvironment03_204
+    21300410: 2DEnvironment03_205
+    21300412: 2DEnvironment03_206
+    21300414: 2DEnvironment03_207
+    21300416: 2DEnvironment03_208
+    21300418: 2DEnvironment03_209
+    21300420: 2DEnvironment03_210
+    21300422: 2DEnvironment03_211
+    21300424: 2DEnvironment03_212
+    21300426: 2DEnvironment03_213
+    21300428: 2DEnvironment03_214
+    21300430: 2DEnvironment03_215
+    21300432: 2DEnvironment03_216
+    21300434: 2DEnvironment03_217
+    21300436: 2DEnvironment03_218
+    21300438: 2DEnvironment03_219
+    21300440: 2DEnvironment03_220
+    21300442: 2DEnvironment03_221
+    21300444: 2DEnvironment03_222
+    21300446: 2DEnvironment03_223
+    21300448: 2DEnvironment03_224
+    21300450: 2DEnvironment03_225
+    21300452: 2DEnvironment03_226
+    21300454: 2DEnvironment03_227
+    21300456: 2DEnvironment03_228
+    21300458: 2DEnvironment03_229
+    21300460: 2DEnvironment03_230
+    21300462: 2DEnvironment03_231
+    21300464: 2DEnvironment03_232
+    21300466: 2DEnvironment03_233
+    21300468: 2DEnvironment03_234
+    21300470: 2DEnvironment03_235
+    21300472: 2DEnvironment03_236
+    21300474: 2DEnvironment03_237
+    21300476: 2DEnvironment03_238
+    21300478: 2DEnvironment03_239
+    21300480: 2DEnvironment03_240
+    21300482: 2DEnvironment03_241
+    21300484: 2DEnvironment03_242
+    21300486: 2DEnvironment03_243
+    21300488: 2DEnvironment03_244
+    21300490: 2DEnvironment03_245
+    21300492: 2DEnvironment03_246
+    21300494: 2DEnvironment03_247
+    21300496: 2DEnvironment03_248
+    21300498: 2DEnvironment03_249
+    21300500: 2DEnvironment03_250
+    21300502: 2DEnvironment03_251
+    21300504: 2DEnvironment03_252
+    21300506: 2DEnvironment03_253
+    21300508: 2DEnvironment03_254
+    21300510: 2DEnvironment03_255
+    21300512: 2DEnvironment03_256
+    21300514: 2DEnvironment03_257
+    21300516: 2DEnvironment03_258
+    21300518: 2DEnvironment03_259
+    21300520: 2DEnvironment03_260
+    21300522: 2DEnvironment03_261
+    21300524: 2DEnvironment03_262
+    21300526: 2DEnvironment03_263
+    21300528: 2DEnvironment03_264
+    21300530: 2DEnvironment03_265
+    21300532: 2DEnvironment03_266
+    21300534: 2DEnvironment03_267
+    21300536: 2DEnvironment03_268
+    21300538: 2DEnvironment03_269
+    21300540: 2DEnvironment03_270
+    21300542: 2DEnvironment03_271
+    21300544: 2DEnvironment03_272
+    21300546: 2DEnvironment03_273
+    21300548: 2DEnvironment03_274
+    21300550: 2DEnvironment03_275
+    21300552: 2DEnvironment03_276
+    21300554: 2DEnvironment03_277
+    21300556: 2DEnvironment03_278
+    21300558: 2DEnvironment03_279
+    21300560: 2DEnvironment03_280
+    21300562: 2DEnvironment03_281
+    21300564: 2DEnvironment03_282
+    21300566: 2DEnvironment03_283
+    21300568: 2DEnvironment03_284
+    21300570: 2DEnvironment03_285
+    21300572: 2DEnvironment03_286
+    21300574: 2DEnvironment03_287
+    21300576: 2DEnvironment03_288
+    21300578: 2DEnvironment03_289
+    21300580: 2DEnvironment03_290
+    21300582: 2DEnvironment03_291
+    21300584: 2DEnvironment03_292
+    21300586: 2DEnvironment03_293
+    21300588: 2DEnvironment03_294
+    21300590: 2DEnvironment03_295
+    21300592: 2DEnvironment03_296
+    21300594: 2DEnvironment03_297
+    21300596: 2DEnvironment03_298
+    21300598: 2DEnvironment03_299
+    21300600: 2DEnvironment03_300
+    21300602: 2DEnvironment03_301
+    21300604: 2DEnvironment03_302
+    21300606: 2DEnvironment03_303
+    21300608: 2DEnvironment03_304
+    21300610: 2DEnvironment03_305
+    21300612: 2DEnvironment03_306
+    21300614: 2DEnvironment03_307
+    21300616: 2DEnvironment03_308
+    21300618: 2DEnvironment03_309
+    21300620: 2DEnvironment03_310
+    21300622: 2DEnvironment03_311
+    21300624: 2DEnvironment03_312
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2DEnvironment03_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2350
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2350
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2350
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2350
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2360
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2358
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2350
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2350
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2350
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2350
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_10
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2361
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_11
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 2358
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2348
+        width: 290
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_13
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2348
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_14
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2348
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_15
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 2348
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_16
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 2348
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_17
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2361
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_18
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 2355
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_19
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 2343
+        width: 434
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_20
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 2302
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_21
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 2302
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2266
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2266
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2266
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_25
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2266
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_26
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2279
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_27
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2280
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_28
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2261
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_29
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2261
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_30
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2261
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_31
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2261
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_32
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 2280
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_33
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2281
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_34
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2261
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_35
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2261
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_36
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2261
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_37
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 2261
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_38
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 2285
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_39
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 2286
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_40
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2267
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_41
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 2267
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_42
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 2267
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_43
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 2267
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_44
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 2279
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_45
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2279
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_46
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2239
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_47
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 2239
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2172
+        width: 242
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_49
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2207
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_50
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2207
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_51
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2207
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_52
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2207
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_53
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2207
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_54
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2207
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_55
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2204
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_56
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2205
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_57
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2207
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_58
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 2199
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_59
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2183
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_60
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2204
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_61
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 2189
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_62
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2192
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_63
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 2207
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_64
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2204
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_65
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2190
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_66
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 2124
+        width: 87
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_67
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2124
+        width: 87
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_68
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2124
+        width: 86
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_69
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2124
+        width: 85
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_70
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 2207
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_71
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 2234
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_72
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 2239
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_73
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 2225
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_74
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2226
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_75
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2222
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_76
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 2219
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_77
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2214
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_78
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2172
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_79
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2174
+        width: 81
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_80
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 2203
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_81
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2191
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_82
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 2193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_83
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2193
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_84
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2030
+        width: 608
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_85
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 2186
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_86
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2183
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_87
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2015
+        width: 479
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_88
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 2095
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_89
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 2063
+        width: 242
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_90
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1951
+        width: 282
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_91
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 2133
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_92
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 2015
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_93
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1980
+        width: 86
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_94
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1980
+        width: 85
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_95
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 2077
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_96
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2010
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_97
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2015
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_98
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 2020
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_99
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1903
+        width: 607
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_100
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1903
+        width: 243
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_101
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1934
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_102
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1925
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_103
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1903
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_104
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1903
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_105
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1919
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_106
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1925
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_107
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1855
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_108
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1918
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_109
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 1871
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_110
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1871
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_111
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1871
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_112
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1871
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_113
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1680
+        width: 1171
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_114
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1886
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_115
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1856
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_116
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1790
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_117
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1824
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_118
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1824
+        width: 131
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_119
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1828
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_120
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1791
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_121
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1791
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_122
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1805
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_123
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1805
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_124
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1758
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_125
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1790
+        width: 67
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_126
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1727
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_127
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1774
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_128
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1774
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_129
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1728
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_130
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1728
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_131
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1728
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_132
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1727
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_133
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1728
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_134
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1728
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_135
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1742
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_136
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1742
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_137
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1526
+        width: 338
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_138
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1551
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_139
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1535
+        width: 256
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_140
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1402
+        width: 692
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_141
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1567
+        width: 116
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_142
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1535
+        width: 223
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_143
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1583
+        width: 243
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_144
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1560
+        width: 130
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_145
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1612
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_146
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1603
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_147
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1572
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_148
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1590
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_149
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1572
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_150
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1570
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_151
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1438
+        width: 114
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_152
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1470
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_153
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1490
+        width: 61
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_154
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1455
+        width: 193
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_155
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1374
+        width: 51
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_156
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1390
+        width: 42
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_157
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1344
+        width: 56
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_158
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1408
+        width: 156
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_159
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1409
+        width: 27
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_160
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1359
+        width: 330
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_161
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1422
+        width: 164
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_162
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1423
+        width: 64
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_163
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1361
+        width: 191
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_164
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1438
+        width: 140
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_165
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1470
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_166
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1388
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_167
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1388
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_168
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1401
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_169
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1446
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_170
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1381
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_171
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1429
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_172
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1375
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_173
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1390
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_174
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1390
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_175
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1390
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_176
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1390
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_177
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1390
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_178
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1423
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_179
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1405
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_180
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1388
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_181
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1312
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_182
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1342
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_183
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1327
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_184
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1246
+        width: 259
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_185
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1355
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_186
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1340
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_187
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1327
+        width: 97
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_188
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1342
+        width: 130
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_189
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1327
+        width: 113
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_190
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1342
+        width: 91
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_191
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1344
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_192
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1032
+        width: 514
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_193
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1191
+        width: 90
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_194
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1198
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_195
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1191
+        width: 99
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_196
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1196
+        width: 167
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_197
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1196
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_198
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1196
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_199
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1196
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_200
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1181
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_201
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1194
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_202
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1181
+        width: 94
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_203
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1194
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_204
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1042
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_205
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1047
+        width: 109
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_206
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1046
+        width: 82
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_207
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1046
+        width: 99
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_208
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1051
+        width: 73
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_209
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1051
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_210
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1038
+        width: 75
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_211
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1046
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_212
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1046
+        width: 75
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_213
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1048
+        width: 75
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_214
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1031
+        width: 96
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_215
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1031
+        width: 96
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_216
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1024
+        width: 99
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_217
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1019
+        width: 114
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_218
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1011
+        width: 122
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_219
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 783
+        width: 514
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_220
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 898
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_221
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 904
+        width: 109
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_222
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 902
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_223
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 902
+        width: 99
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_224
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 906
+        width: 73
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_225
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 906
+        width: 92
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_226
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 894
+        width: 75
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_227
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 902
+        width: 76
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_228
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 902
+        width: 75
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_229
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 904
+        width: 75
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_230
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 884
+        width: 94
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_231
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 877
+        width: 75
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_232
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 895
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_233
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 896
+        width: 76
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_234
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 896
+        width: 76
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_235
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 896
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_236
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 896
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_237
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 891
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_238
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 727
+        width: 82
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_239
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 727
+        width: 81
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_240
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 734
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_241
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 732
+        width: 89
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_242
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 741
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_243
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 741
+        width: 74
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_244
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 761
+        width: 85
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_245
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 754
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_246
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 754
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_247
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 734
+        width: 159
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_248
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 623
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_249
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 609
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_250
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 623
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_251
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 609
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_252
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 636
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_253
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 638
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_254
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 623
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_255
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 623
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_256
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 637
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_257
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 623
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_258
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 623
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_259
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 623
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_260
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 640
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_261
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 638
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_262
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 649
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_263
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 639
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_264
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 631
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_265
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 628
+        width: 67
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_266
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 638
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_267
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 638
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_268
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 638
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_269
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 638
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_270
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 623
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_271
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 623
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_272
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 623
+        width: 62
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_273
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 623
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_274
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 623
+        width: 63
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_275
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 623
+        width: 62
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_276
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 623
+        width: 62
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_277
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 622
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_278
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 622
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_279
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 622
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_280
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 622
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_281
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 622
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_282
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 622
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_283
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 619
+        width: 75
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_284
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 619
+        width: 58
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_285
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 619
+        width: 75
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_286
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 427
+        width: 104
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_287
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 446
+        width: 121
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_288
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 439
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_289
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 428
+        width: 163
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_290
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 441
+        width: 133
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_291
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 446
+        width: 98
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_292
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 460
+        width: 121
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_293
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 440
+        width: 118
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_294
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 447
+        width: 134
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_295
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 441
+        width: 144
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_296
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 347
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_297
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 309
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_298
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 84
+        width: 119
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_299
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 333
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_300
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 115
+        width: 95
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_301
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 128
+        width: 78
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_302
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 120
+        width: 154
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_303
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 188
+        width: 222
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_304
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 107
+        width: 104
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_305
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 112
+        width: 120
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_306
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 110
+        width: 194
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_307
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 146
+        width: 107
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_308
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 149
+        width: 179
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_309
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 176
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_310
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 190
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_311
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 155
+        width: 132
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2DEnvironment03_312
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 179
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
